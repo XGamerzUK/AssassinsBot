@@ -1,1 +1,1 @@
-AssassinsBot
+TestBot
